@@ -1,4 +1,4 @@
 files:
   - 
-    source: '/*.*'
+    source: '/*'
     translation: '/folder/%two_letters_code%/%original_file_name%'
